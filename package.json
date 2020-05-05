@@ -1,0 +1,18 @@
+{
+  "name": "dr-logger",
+  "version": "1.0.0",
+  "description": "A simple logging system for all kind of platforms.",
+  "main": "index.js",
+  "keywords": [
+    "log",
+    "logging",
+    "logger",
+    "nodejs"
+  ],
+  "author": "Ran Medina",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/ranmedina/dr-logger.git"
+  },
+  "license": "ISC"
+}
